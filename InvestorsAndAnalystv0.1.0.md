@@ -9,3 +9,4 @@ Web system to manage rental collections quickly and securely. It allows you to r
 #### INTEGRANT 2
 #### INTEGRANT 3
 #### INTEGRANT 4
+---
